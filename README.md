@@ -53,7 +53,7 @@ The steps to reproduce our _K1-d&r_ results on IWSLT En-De are enumerated below:
 The other results presented in the paper can be reproduced with analogous scripts, that can be found in `./sh` .
 For the English-Russian language pair, we use a corpus extracted from OpenSubtitles2018 by [Voita et al. (2019)](https://www.aclweb.org/anthology/P19-1116/), available [here](https://github.com/lena-voita/good-translation-wrong-in-context#training-data).
 
-# CItation
+# Citation
 
 The [Divide and Rule](https://arxiv.org/abs/2103.17151) paper:
 ```bibtex
