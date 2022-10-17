@@ -1,6 +1,6 @@
 # Divide and Rule: Effective Pre-Training for Context-Aware Multi-Encoder Translation Models
 
-This repository contains the official implementation of the algorithms discussed in the paper [Divide and Rule: Effective Pre-Training for Context-Aware Multi-Encoder Translation Models](https://arxiv.org/abs/2103.17151). The implementation is based on the [fairseq package v0.9.0](https://github.com/pytorch/fairseq/tree/v0.9.0).
+This repository contains the official implementation of the experiments discussed in the ACL22 paper [Divide and Rule: Effective Pre-Training for Context-Aware Multi-Encoder Translation Models](https://arxiv.org/abs/2103.17151). The implementation is based on the [fairseq package v0.9.0](https://github.com/pytorch/fairseq/tree/v0.9.0).
 
 # Requirements and Installation
 
